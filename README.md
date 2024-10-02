@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix Yolo 8.0.206 scale bug (#7821)
